@@ -1,0 +1,121 @@
+body {
+  font-size: 14px;
+  width: 450px;
+  min-height: 180px;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin: 0;
+  background-color: #ffd014;
+  background-image: conic-gradient(#ffd014, #805280);
+  background-image: linear-gradient(#ffd014, #805280);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+img {
+  width: 50px;
+}
+
+.bookmark {
+  background-color: rgb(241, 241, 241);
+}
+
+.title-section {
+  align-items: center;
+  border-bottom: 0.5px solid #dadada;
+}
+
+.content {
+  padding: 0 22px;
+}
+
+.double-degree-logo {
+  padding: 16px;
+}
+.logo-icon {
+  vertical-align: text-bottom;
+  margin-right: 12px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 22px;
+}
+
+.specific-website {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  width: 120px;
+}
+
+.specific-website:hover {
+  opacity: 0.4;
+}
+
+.quest-icon {
+  width: 30px;
+  height: auto;
+  padding-right: 50px;
+}
+
+.learn-icon {
+  width: 70px;
+  height: 25px;
+  padding-top: 7px;
+  padding-right: 40px;
+}
+
+.loris-icon {
+  width: 30px;
+  height: auto;
+}
+
+.learningspace-icon {
+  width: 90px;
+  height: auto;
+  padding-right: 30px;
+}
+
+.pearson-icon {
+  width: 30px;
+  height: auto;
+  padding-bottom: 0px;
+}
+
+.tophat-icon {
+  width: 35px;
+  height: auto;
+}
+
+.edx-icon {
+  width: 35px;
+  height: auto;
+  padding-top: 8px;
+  padding-right: 20px;
+}
+
+.markus-icon {
+  width: 35px;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+.piazza-icon {
+  width: 50px;
+  height: auto;
+  padding-top: 15px;
+}
+
+.resources-icon {
+  width: 30px;
+  height: auto;
+}
