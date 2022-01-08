@@ -1,7 +1,7 @@
 # Double-Degree-BookMap
 A Google Chrome extension that helps double-degree students with accessing their course websites.
 
-https://portfolio-website-cad4c.web.app/
+https://chrome.google.com/webstore/category/extensions
 
 ![Extension Image](.Images/Fullscreen.PNG)
 
