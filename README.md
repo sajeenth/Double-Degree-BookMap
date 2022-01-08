@@ -3,4 +3,6 @@ A Google Chrome extension that helps double-degree students with accessing their
 
 https://portfolio-website-cad4c.web.app/
 
-![alt text](.Images/Fullscreen.PNG)
+![Extension Image](.Images/Fullscreen.PNG)
+
+![Zoomed Image](.Images/Zoomed.PNG)
