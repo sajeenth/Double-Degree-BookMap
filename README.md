@@ -5,4 +5,4 @@ https://portfolio-website-cad4c.web.app/
 
 ![Extension Image](.Images/Fullscreen.PNG)
 
-![Zoomed Image](.Images/Zoomed.PNG)
+align="center" ![Zoomed Image](.Images/Zoomed.PNG)
