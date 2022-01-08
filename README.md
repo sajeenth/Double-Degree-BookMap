@@ -6,5 +6,5 @@ https://portfolio-website-cad4c.web.app/
 ![Extension Image](.Images/Fullscreen.PNG)
 
 <p align="center">
-  <img src="http://Images/Zoomed.PNG />
+  <img src="https://github.com/sajeenth/Double-Degree-BookMap/blob/main/.Images/Zoomed.PNG" />
 </p>
